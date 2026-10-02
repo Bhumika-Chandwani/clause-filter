@@ -4,7 +4,7 @@ venv/
 __pycache__/
 *.pyc
 
-# Data (large files, don't belong in git)
+# Data (large files)
 data/cuad/
 knowledge_base/clauses.json
 

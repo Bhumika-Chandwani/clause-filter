@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "clause_1125",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Notice Period To Terminate Renewal",
+    "contract_source": "BELLRINGBRANDS,INC_02_07_2020-EX-10.18-MASTER SUPPLY AGREEMENT",
+    "clause_text": "This Agreement will commence on the Effective Date and continue for an Initial Term of five (5) years, and will automatically renew for additional periods of five (5) years unless one Party notifies the other of its intention not to renew, no less than 12 months prior to the expiration of the then-current term, unless terminated as permitted under this Agreement.",
+    "risk_level": "medium",
+    "why_risky": "The combination of a long five-year term and a strict 12-month advance notice requirement for non-renewal creates a significant lock-in period, making it easy to accidentally miss the deadline and be bound for another five years.",
+    "safer_alternative": "Reduce the notice period to 90 or 60 days before expiration, and/or shorten the initial term to one or three years with year-over-year renewals instead of multi-year auto-renewals."
+  },
+  {
+    "id": "clause_0323",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Termination For Convenience",
+    "contract_source": "PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement1",
+    "clause_text": "We may terminate your right to provide products and services to a Major Account customer at any time by giving you at least 30 days' prior written notice, and you may terminate your right to provide products and services to a Major Account at any time by giving us at least 30 days' prior written notice.",
+    "risk_level": "low",
+    "why_risky": "The mutual 30-day termination right is standard and fair, but it lacks a requirement for the party terminating to transition or settle outstanding orders for the affected Major Account, which could lead to operational disruptions.",
+    "safer_alternative": "Add provisions requiring the terminating party to complete all in-progress orders for the affected Major Account and provide reasonable cooperation for service continuity during the notice period."
+  },
+  {
+    "id": "clause_2861",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Termination For Convenience",
+    "contract_source": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+    "clause_text": "Commencing on the later of (i) [ * ] of the First Commercial Sale of the Binimetinib Product in the Ono Territory, or (ii) [ * ] of the First Commercial Sale of the Encorafenib Product in the Ono Territory, Ono shall have the right to terminate this Agreement, for any reasons by giving [ * ] advance written notice to Array which shall be accompanied by the rationale for such termination.",
+    "risk_level": "medium",
+    "why_risky": "The clause grants Ono an unlimited right to terminate for 'any reason' without the counterparty having a corresponding right, creating significant uncertainty and leverage imbalance for Array.",
+    "safer_alternative": "Limit Ono's termination right to specific material breaches or failure to meet commercial milestones, or grant Array a reciprocal right to terminate under similar conditions."
+  },
+  {
+    "id": "clause_2466",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Termination For Convenience",
+    "contract_source": "ZogenixInc_20190509_10-Q_EX-10.2_11663313_EX-10.2_Distributor Agreement",
+    "clause_text": "\"Distribution Term\" means the period commencing on the first Regulatory Approval of the Product in the Territory and continuing until [***], or if this Agreement is terminated earlier pursuant to Article 12, the effective date of such termination.",
+    "risk_level": "medium",
+    "why_risky": "The clause creates ambiguity by relying on a redacted or undefined end date ('[***]') and links the term exclusively to an external regulatory event, which may result in an open-ended or unpredictable commitment if the product is not approved or if the counterparty delays approval.",
+    "safer_alternative": "Define a specific calendar end date or a fixed duration (e.g., five years) for the Distribution Term, and clarify that failure to obtain Regulatory Approval by a certain date allows either party to terminate without penalty."
+  },
+  {
+    "id": "clause_2264",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Renewal Term",
+    "contract_source": "HYPERIONSOFTWARECORP_09_28_1994-EX-10.47-EXCLUSIVE DISTRIBUTOR AGREEMENT",
+    "clause_text": "Either party may cancel this Agreement effective on the last day of the Initial Term, or",
+    "risk_level": "medium",
+    "why_risky": "The clause is syntactically incomplete, ending with 'or', which creates ambiguity about what happens if the party does not cancel, or if they attempt to cancel after the Initial Term.",
+    "safer_alternative": "Complete the clause by specifying the automatic renewal terms and the exact deadline for notice to cancel, such as: '...or otherwise it shall automatically renew for successive one-year terms unless either party gives written notice of non-renewal at least 30 days prior to the end of the then-current term.'"
+  },
+  {
+    "id": "clause_1328",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Termination For Convenience",
+    "contract_source": "ANIXABIOSCIENCESINC_06_09_2020-EX-10.1-COLLABORATION AGREEMENT",
+    "clause_text": "This Agreement may be terminated by Anixa, without cause, upon at least thirty (30) days written notice to OntoChem.",
+    "risk_level": "high",
+    "why_risky": "This clause allows one party to end the contract at any time without reason or consequence, creating significant uncertainty and potential financial instability for the other party.",
+    "safer_alternative": "Both parties may terminate this agreement on ninety (90) days' written notice, or either party may terminate immediately only upon material breach by the other party that remains uncured after a fixed cure period."
+  },
+  {
+    "id": "clause_1079",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Termination For Convenience",
+    "contract_source": "FerroglobePlc_20150624_F-4A_EX-10.20_9154746_EX-10.20_Outsourcing Agreement",
+    "clause_text": "The Agreement rests, for all that, cancellable at any time by any of the parties before the expiry date of the Agreement or any of itsrenewals, upon three months prior written notice.",
+    "risk_level": "low",
+    "why_risky": "The three-month prior notice requirement is above the typical standard for many B2B contracts, potentially limiting flexibility, though it is mutual and clearly defined.",
+    "safer_alternative": "The Agreement may be terminated by either party at any time upon two months' prior written notice."
+  },
+  {
+    "id": "clause_0974",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Notice Period To Terminate Renewal",
+    "contract_source": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1",
+    "clause_text": "Upon expiry of the Initial Term, this Agreement [*****] unless a Notice of non-renewal is given by either Party to the other Party [*****] prior to the expiry of the Initial Term or the end of a renewal period, if any.",
+    "risk_level": "high",
+    "why_risky": "The critical terms regarding whether the agreement automatically renews and the specific deadline for sending a non-renewal notice are redacted, creating a situation where a party could unknowingly be locked into a long-term obligation without a clearly defined opt-out mechanism.",
+    "safer_alternative": "Explicitly state that the Agreement shall NOT auto-renew unless both parties sign a new renewal contract, or clearly specify the exact number of days' written notice required to prevent automatic renewal."
+  },
+  {
+    "id": "clause_4517",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Termination For Convenience",
+    "contract_source": "COOLTECHNOLOGIES,INC_10_25_2017-EX-10.71-Strategic Alliance Agreement",
+    "clause_text": "Notwithstanding the foregoing, this Agreement shall be earlier terminated (x) by mutual agreement of the parties, or (y) at any time upon sixty (60) days advance written notice to the other party.",
+    "risk_level": "neutral",
+    "why_risky": "This clause provides a standard and balanced exit mechanism where either party can terminate the agreement with reasonable notice or by mutual consent, without imposing unusual penalties.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_0408",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Renewal Term",
+    "contract_source": "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement",
+    "clause_text": "Thereafter, this Agreement shall automatically be renewed for successive 1-year terms (each a \"Renewal Term\", and together with the Initial Term, the \"Term\").",
+    "risk_level": "medium",
+    "why_risky": "The clause creates an automatic binding obligation for successive years without requiring active consent or providing a clear mechanism for easy opt-out, which can trap a party into unwanted long-term commitments.",
+    "safer_alternative": "Require the agreement to renew only if both parties provide written notice of intent to renew, or allow either party to terminate on a short notice period (e.g., 30 days) before the renewal date."
+  },
+  {
+    "id": "clause_0403",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Termination For Convenience",
+    "contract_source": "SENMIAOTECHNOLOGYLTD_02_19_2019-EX-10.5-Collaboration Agreement",
+    "clause_text": "Party A is entitled to unilaterally terminate this Agreement within three natural months from the signing date of this Agreement.",
+    "risk_level": "high",
+    "why_risky": "The clause grants one party an unrestricted right to exit the agreement freely within ninety days, creating significant uncertainty and potential financial loss for the other party who may have already incurred costs relying on the contract.",
+    "safer_alternative": "Either party may terminate this Agreement for convenience by providing thirty days' prior written notice, in which case Party A shall pay for all services rendered and reasonable, non-cancellable commitments made through the termination date."
+  },
+  {
+    "id": "clause_1022",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Renewal Term",
+    "contract_source": "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT",
+    "clause_text": "For a renewable one-year term commencing upon the Maintenance Commencement Date, subject to payment of maintenance fees in accordance with the Fee Schedule but without additional fees or charges, Garman shall provide the following Maintenance Services:",
+    "risk_level": "low",
+    "why_risky": "The clause omits specific details on how renewals are triggered and the window for non-renewal, which could lead to inadvertent automatic renewal if not carefully managed.",
+    "safer_alternative": "Specify that the term renews automatically for successive one-year periods unless either party provides written notice of non-renewal at least X days prior to the anniversary date."
+  },
+  {
+    "id": "clause_2204",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Termination For Convenience",
+    "contract_source": "Sonos, Inc. - Manufacturing Agreement ",
+    "clause_text": "Either Party may terminate this Agreement hereunder for any reason at its convenience upon one hundred eighty (180) days prior written notice.",
+    "risk_level": "neutral",
+    "why_risky": "The clause grants both parties equal rights to terminate for convenience with a reasonable notice period, ensuring mutual fairness and no inherent one-sidedness.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_2379",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Renewal Term",
+    "contract_source": "KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part1",
+    "clause_text": "This Agreement will automatically renew for additional 1-year terms unless earlier terminated pursuant to this Agreement's express provisions (together with the Initial Term, such additional periods the \"Term\").",
+    "risk_level": "medium",
+    "why_risky": "The clause creates an automatic continuation of the contract for another full year, which can trap a party financially if they fail to actively notice and cancel before the deadline.",
+    "safer_alternative": "Replace the automatic renewal with a provision requiring both parties to execute a written renewal agreement by a specific date to extend the term."
+  },
+  {
+    "id": "clause_5398",
+    "project_category": "Auto-Renewal & Termination",
+    "cuad_category": "Renewal Term",
+    "contract_source": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT",
+    "clause_text": "The term of this Agreement may be extended for an additional two year period with the written consent of both parties.",
+    "risk_level": "neutral",
+    "why_risky": "The clause requires mutual written consent for any extension, ensuring neither party can be forced into an unintended renewal or trapped in an auto-renewal trap.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_3903",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "TICKETSCOMINC_06_22_1999-EX-10.22-SPONSORSHIP AGREEMENT",
+    "clause_text": "This Agreement shall be governed by and construed in accordance with the laws of the State of California without reference to conflict of law principles thereof.",
+    "risk_level": "neutral",
+    "why_risky": "This is a standard, explicit governing law clause that clearly defines the jurisdiction and legal framework, leaving little room for ambiguity or exploitation.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_0182",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement",
+    "clause_text": "This Agreement and all claims or causes of action arising out of or related to this Agreement shall be governed in all respects, including as to validity, interpretation and effect, by the laws of the State of Illinois and the United States of America, without giving effect to its principles or rules of conflict of laws.",
+    "risk_level": "neutral",
+    "why_risky": "This is a standard boilerplate clause that simply identifies the jurisdiction for legal interpretation without imposing unfair terms on either party.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_3616",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "IPAYMENT,INC_05_14_2007-EX-10.1-SPONSORSHIP AGREEMENT",
+    "clause_text": "This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without giving effect to New York conflict laws.",
+    "risk_level": "neutral",
+    "why_risky": "Stating New York law as the governing law is standard commercial boilerplate and not inherently risky to either party, though enforcement depends on the parties' business operations.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_1188",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "INTELLIGENTHIGHWAYSOLUTIONS,INC_01_18_2018-EX-10.1-Strategic Alliance Agreement",
+    "clause_text": "This Agreement is entered into in the State of Texas and shall be interpreted according to the laws of the State of Texas.",
+    "risk_level": "neutral",
+    "why_risky": "Stating the governing law is a standard legal requirement to ensure predictability in contract interpretation and does not inherently create risk.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_4518",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ",
+    "clause_text": "The validity, interpretation and performance of this Agreement and any dispute connected with this Agreement will be governed by and determined in accordance with the statutory, regulatory and decisional law of the State of Delaware (exclusive of such state's choice of laws or conflicts of laws rules) and, to the extent applicable, the federal statutory, regulatory and decisional law of the United States.",
+    "risk_level": "neutral",
+    "why_risky": "This is a standard boilerplate provision that simply selects a well-established jurisdiction for legal interpretation without containing inherently one-sided or harmful terms.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_4182",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT",
+    "clause_text": "This Agreement will be deemed entered into in Arizona and will be governed by and interpreted in accordance with the internal substantive laws of the State of Arizona without reference to conflicts of law provisions.",
+    "risk_level": "neutral",
+    "why_risky": "This is standard boilerplate language that clearly defines the jurisdiction and legal framework, which reduces ambiguity rather than creating risk.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_4473",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "BLUEHILLSBANCORP,INC_05_20_2014-EX-1.1-AGENCY AGREEMENT",
+    "clause_text": "This Agreement shall be governed by and construed in accordance with the laws of the State of New York without regard to principles of conflicts of law.",
+    "risk_level": "neutral",
+    "why_risky": "This is a standard boilerplate clause that specifies which legal system applies, which is a necessary and neutral provision for contract enforceability.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_3513",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT",
+    "clause_text": "This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York.",
+    "risk_level": "neutral",
+    "why_risky": "This is standard legal boilerplate that simply defines which jurisdiction's laws apply, without inherently favoring one party over the other.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_2767",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "ExactSciencesCorp_20180822_8-K_EX-10.1_11331629_EX-10.1_Promotion Agreement",
+    "clause_text": "This Agreement shall be governed by and interpreted in accordance with the substantive laws of the State of New York, without regard to conflict of law principles thereof.",
+    "risk_level": "neutral",
+    "why_risky": "This is a standard boilerplate clause that explicitly selects a governing law without introducing one-sided bias or ambiguity.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_1338",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "ELFBEAUTY,INC_07_02_2020-EX-10.1-COOPERATION AGREEMENT",
+    "clause_text": "This Agreement shall be governed by and construed in accordance with the internal laws of the State of Delaware applicable to agreements made and to be performed within that state, without giving effect to any law or principals of law that would result in the application of the laws of any other jurisdiction.",
+    "risk_level": "neutral",
+    "why_risky": "This is standard boilerplate language that simply specifies which state's laws will apply, without containing any unusual or one-sided terms.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_2965",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT",
+    "clause_text": "This Agreement shall be construed in accordance with the laws of the District of Columbia.",
+    "risk_level": "neutral",
+    "why_risky": "Stating a specific jurisdiction for governing law is standard boilerplate that provides legal certainty rather than imposing an unfair disadvantage.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_3801",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement",
+    "clause_text": "This Agreement has been entered into in the State of Tennessee, and the validity, interpretation and legal effect of this Agreement will be governed by the laws of the State of Tennessee applicable to contracts entered into and performed entirely within the State of Tennessee.",
+    "risk_level": "neutral",
+    "why_risky": "This is a standard governing law clause that defines the legal jurisdiction without imposing inherent unfairness or ambiguity.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_1803",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT",
+    "clause_text": "Except to the extent governed by the U.S. Trademark Act of 1946 (Lanham Act, 15 U.S.C. \"1051 et seq.), this Agreement, the other agreements referred herein, and the offer and the sale of the franchise shall be governed in all respects and aspects by the laws of the Commonwealth of Pennsylvania and expressly excluding the laws pertaining to the choice of law and conflict of laws.",
+    "risk_level": "low",
+    "why_risky": "The clause imposes the laws of Pennsylvania, which may be inconvenient for a franchisor or franchisee located in another jurisdiction, though the legal basis is standard.",
+    "safer_alternative": "The parties should negotiate to have the agreement governed by the laws of the state where the franchisor is headquartered or where the majority of franchisees are located, to ensure legal familiarity and procedural efficiency."
+  },
+  {
+    "id": "clause_5096",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement",
+    "clause_text": "This Agreement will be governed by the laws of the state where a suit is properly filed under the terms of this paragraph, being either Illinois or New York, and without giving effect to conflict of law principles.",
+    "risk_level": "medium",
+    "why_risky": "The clause makes the governing law uncertain until a lawsuit is filed, which can lead to unpredictable legal standards and strategic forum shopping by either party.",
+    "safer_alternative": "This Agreement will be governed by the laws of the State of Illinois, without giving effect to conflict of law principles."
+  },
+  {
+    "id": "clause_5464",
+    "project_category": "Governing Law",
+    "cuad_category": "Governing Law",
+    "contract_source": "BLUEROCKRESIDENTIALGROWTHREIT,INC_06_01_2016-EX-1.1-AGENCY AGREEMENT",
+    "clause_text": "This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York.",
+    "risk_level": "neutral",
+    "why_risky": "This is standard boilerplate that clearly designates the jurisdiction without containing deceptive or one-sided legal terms.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_0050",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Exclusivity",
+    "contract_source": "ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT",
+    "clause_text": "CONSULTANT hereby gives and grants to ADAMS GOLF the exclusive right and license to use CONSULTANT'S ENDORSEMENT in connection with the manufacture, sale, distribution, advertising and promotion of PRODUCT in the CONTRACT TERRITORY.",
+    "risk_level": "medium",
+    "why_risky": "The term 'endorsement' is vague and could be interpreted as covering the Consultant's personal likeness or name without explicit bounds, potentially allowing indefinite or broad usage that exceeds the immediate commercial intent.",
+    "safer_alternative": "ADAMS GOLF is granted a non-exclusive license to use the specific, pre-approved marketing materials containing the Consultant's name and likeness solely for the duration of the Agreement and within the stated Contract Territory."
+  },
+  {
+    "id": "clause_1809",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Non-Compete",
+    "contract_source": "MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT",
+    "clause_text": "The Franchise Agreement contains a covenant not to compete which extends beyond the termination of the franchise.",
+    "risk_level": "high",
+    "why_risky": "Non-compete restrictions that persist indefinitely after a franchise ends can prevent the franchisee from earning a livelihood in their chosen field, which is often legally unenforceable and potentially a waste of the period where protection is actually needed.",
+    "safer_alternative": "Limit the non-compete clause to a reasonable, defined period (e.g., 6\u201312 months) and a specific geographic radius after termination, and allow the franchisee to operate in other areas or industries that do not compete with the franchisor."
+  },
+  {
+    "id": "clause_4036",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Non-Compete",
+    "contract_source": "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement",
+    "clause_text": "In the event that Distributor terminates this Agreement, then for one year thereafter, Distributor shall not sell, promote, advertise or market in the Territory products which are competitive with the Products.",
+    "risk_level": "medium",
+    "why_risky": "The clause imposes a one-year non-compete restriction on the Distributor without limiting the scope to products previously sold or requiring indemnification for lost revenue, which may be overly broad depending on the length of the business relationship.",
+    "safer_alternative": "Limit the restriction to products specifically dealt by the Distributor during the last six months of the term and reduce the duration to six months, or ensure the Supplier pays a non-compete fee."
+  },
+  {
+    "id": "clause_3188",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Exclusivity",
+    "contract_source": "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement",
+    "clause_text": "For clarity, the exclusive license granted to Licensee pursuant to Section 2.1 shall extend to all Intellectual Property Rights and Know-How Controlled by Bioeq and embodied within, or claiming or covering the Bioeq Improvements.",
+    "risk_level": "medium",
+    "why_risky": "The phrase 'claiming or covering' is ambiguous and could be interpreted to include patents that only claim the improvements rather than embodying them, potentially creating broader exclusive rights than intended.",
+    "safer_alternative": "Limit the scope of the exclusive license explicitly to Intellectual Property Rights and Know-How that directly embody Bioeq Improvements, removing the broad 'claiming or covering' language."
+  },
+  {
+    "id": "clause_2648",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Exclusivity",
+    "contract_source": "LOGANSROADHOUSEINC_03_27_1998-EX-10.17-SPONSORSHIP AGREEMENT",
+    "clause_text": "The Driver shall not drive any other race vehicle for any other sponsor than Logan's without prior written notice from SRP to Logan's.",
+    "risk_level": "medium",
+    "why_risky": "The clause is ambiguous because it does not specify a timeframe for providing 'prior' notice, nor does it allow Logan's to contest the notice or require consent, which creates uncertainty about the Driver's legal ability to drive for other sponsors.",
+    "safer_alternative": "The Driver shall not drive any other race vehicle for any other sponsor without the prior written consent of Logan's, which consent shall not be unreasonably withheld, or unless the Driver provides at least [specific number] days' prior written notice to Logan's and receives no objection."
+  },
+  {
+    "id": "clause_1761",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Non-Compete",
+    "contract_source": "AMERICASSHOPPINGMALLINC_12_10_1999-EX-10.2-SITE DEVELOPMENT AND HOSTING AGREEMENT",
+    "clause_text": "During the term of this Agreement and for a period of two years after the expiration date of this Agreement, HDI shall not participate in any project similar to the Site on the Internet from which products substantially similar to Deerskin Products (including, without limitation, the products of Wilson's House of Leather, Excelled and and companies similar to Wilson's House of Leather and Excelled) are offered for sale to consumers on the Internet.",
+    "risk_level": "medium",
+    "why_risky": "The clause is risky due to ambiguous terms like 'similar to the Site' and 'companies similar to', which lack clear definitions and could be interpreted broadly to restrict HDI\u2019s legitimate business activities.",
+    "safer_alternative": "Define 'Substantially Similar Products' specifically by unique attributes or SKUs, and limit the restriction to direct competitors with which HDI had actual dealings, rather than vague 'similar companies'."
+  },
+  {
+    "id": "clause_2260",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Exclusivity",
+    "contract_source": "XLITECHNOLOGIES,INC_12_02_2015-EX-10.02-STRATEGIC ALLIANCE AGREEMENT",
+    "clause_text": "Bosch hereby grants to Client the exclusive rights to sell and distribute the Product, subject to the Territory as set forth below, to certain select companies in the Automotive Industry, each of which shall be approved by Bosch in writing as requested by the Client on a case by case basis.",
+    "risk_level": "medium",
+    "why_risky": "The clause mandates Bosch's case-by-case written approval for each buyer, giving the supplier disproportionate control over the Client's commercial discretion and creating a significant bottleneck for sales operations.",
+    "safer_alternative": "Replace the case-by-case approval requirement with a list of pre-approved entities or a standard eligibility criteria (e.g., 'companies in good standing in the Automotive Industry') that validates buyers automatically without requiring individual consent."
+  },
+  {
+    "id": "clause_3183",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Non-Compete",
+    "contract_source": "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement",
+    "clause_text": "Upon the consummation of such definitive agreement, if Licensee has not then divested all such Competitive Products such that a Competitor Change of Control has occurred, Bioeq may, upon sending written notice to Licensee within sixty (60) days thereafter, terminate this Agreement.",
+    "risk_level": "medium",
+    "why_risky": "The clause creates an ambiguous termination trigger by conditioning the right to terminate on a future event or status (Competitor Change of Control) that may have already occurred or is unclear, potentially allowing the licensor to terminate even if the licensee is in compliance with divestment requirements at the time of closing.",
+    "safer_alternative": "Bioeq may terminate this Agreement if, upon consummation of the definitive agreement, the Licensee has not fully divested all Competitive Products, provided that any potential Competitor Change of Control occurring prior to such consummation is expressly deemed a separate and valid ground for termination only if it results in a material breach of the non-competition covenants."
+  },
+  {
+    "id": "clause_1013",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Exclusivity",
+    "contract_source": "NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment",
+    "clause_text": "exclusive rights (including without limitation such references in Sections 2.1",
+    "risk_level": "medium",
+    "why_risky": "The clause is fragmentary and relies on undefined or incomplete references to other sections, creating ambiguity exactly when defining exclusive rights, which could lead to disputes about the scope of the restriction.",
+    "safer_alternative": "Explicitly define the scope of exclusive rights and all included references within this clause or provide a clear, complete definition in a dedicated definitions section rather than relying on external fragmentary references."
+  },
+  {
+    "id": "clause_0904",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Non-Compete",
+    "contract_source": "INTERNATIONALFASTFOODCORP_04_04_1997-EX-99-FRANCHISE AGREEMENT",
+    "clause_text": "Neither the Principals nor the Franchisee shall directly or indirectly (through stock ownership, partnership, trust, joint venture, management contract, or otherwise) (a) have any interest in another \"Fast Food Hamburger Restaurant\" during the term of this Agreement, or (b) for a period of one ye ar after termination or expiration of this Agreement, have any interest in another Fast Food Hamburger Restaurant business at or within such distance of the Location as is stated SCHEDULE 1.",
+    "risk_level": "medium",
+    "why_risky": "The clause imposes a broad non-compete during the term and a post-term restriction whose geographic scope is left to an external schedule (SCHEDULE 1) that is not defined here, creating potential ambiguity and overbreadth risks.",
+    "safer_alternative": "Specify the exact geographic radius or boundaries in the clause itself and strictly limit the non-compete scope to activities directly competing with the specific franchisee's location."
+  },
+  {
+    "id": "clause_3574",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Exclusivity",
+    "contract_source": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT",
+    "clause_text": "For the Initial Term of this Agreement, iVillage agrees that Ford shall be the exclusive automobile manufacturer sponsor and advertiser throughout the Network, with respect to entities whose primary business is that of an automotive manufacturer and/or retailer.",
+    "risk_level": "high",
+    "why_risky": "This clause grants Ford complete exclusivity within iVillage's network for the automotive sector, completely blocking iVillage's ability to generate revenue from other major car brands during the initial term.",
+    "safer_alternative": "The clause should be limited to specific ad placements, defined categories (e.g., only display ads on homepage), or a significantly shorter exclusivity period with clear compensation adjustments."
+  },
+  {
+    "id": "clause_0955",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Exclusivity",
+    "contract_source": "NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT",
+    "clause_text": "NTC hereby grants to ALFA AESAR, and its subsidiaries and affiliates, the exclusive right to market, sell and distribute Research Quantities of the Products within the Territory, ALFA AESAR hereby accepts such right and agrees to use its reasonable efforts to promote the marketing, sale and distribution of Research Quantities of the Products throughout the Territory in accordance with the terms and conditions of this Agreement using normal and standard practices.",
+    "risk_level": "medium",
+    "why_risky": "The obligation to use 'reasonable efforts' and 'normal and standard practices' is inherently vague and subjective, making it difficult to enforce or quantify, which could lead to disputes over whether the distributor is meeting its performance targets.",
+    "safer_alternative": "Replace 'reasonable efforts' and 'normal and standard practices' with specific, measurable Key Performance Indicators (KPIs) or minimum purchase commitments to clearly define success and limit ambiguity."
+  },
+  {
+    "id": "clause_3364",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Exclusivity",
+    "contract_source": "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT",
+    "clause_text": "The Professional agrees to use only the golf clubs and golf bags of the Company in any golf event, whether professional or social, during the Term.",
+    "risk_level": "high",
+    "why_risky": "The requirement extends to 'social' events, which is unreasonably intrusive into personal life and imposes an unnecessary cost burden if the professional needs to replace gear outside of official duties.",
+    "safer_alternative": "Restrict the usage requirement to official Company-sponsored events, tournaments, and public appearances, allowing personal discretion for private social occasions."
+  },
+  {
+    "id": "clause_3246",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Exclusivity",
+    "contract_source": "KALLOINC_11_03_2011-EX-10.1-STRATEGIC ALLIANCE AGREEMENT",
+    "clause_text": "Agent's appointment shall be exclusive for the Kallo Mobile care suite of products and services marked in Schedule A to this Agreement.",
+    "risk_level": "medium",
+    "why_risky": "The clause creates an exclusive relationship that prevents the agent from selling competing products within the defined scope, which can limit business opportunities and revenue streams if the exclusivity is broad or if the principal underperforms.",
+    "safer_alternative": "Add a performance threshold such that exclusivity is revoked if the principal fails to meet minimum sales targets or fails to provide necessary marketing support, ensuring the agent is not locked into an underperforming relationship."
+  },
+  {
+    "id": "clause_2598",
+    "project_category": "Competitive Restrictions",
+    "cuad_category": "Non-Compete",
+    "contract_source": "IDREAMSKYTECHNOLOGYLTD_07_03_2014-EX-10.39-Cooperation Agreement on Mobile Game Business",
+    "clause_text": "Party B shall not advertise, or make any statement favorable for, any competitor having the same or similar business scope as Party A in the services it provides.",
+    "risk_level": "medium",
+    "why_risky": "The term 'competitor having the same or similar business scope' is ambiguous and could be overly broad, potentially prohibiting ordinary commercial statements that do not specifically target Party A's business.",
+    "safer_alternative": "Limit the restriction only to direct competitors and clearly define 'competitor' by a specific list of companies or by a clearly defined scope of services, and exclude standard professional conduct."
+  },
+  {
+    "id": "clause_0424",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "LOYALTYPOINTINC_11_16_2004-EX-10.2-RESELLER AGREEMENT",
+    "clause_text": "In any Contract Year in which Schoolpop fails to fund the Guaranteed Minimum, AEIS shall have the right, in its sole discretion, to (a) terminate the Agreement or (b) revoke the exclusivity.",
+    "risk_level": "high",
+    "why_risky": "This clause allows AEIS to use its 'sole discretion' to choose between terminating the entire agreement or revoking exclusivity, giving AEIS maximum leverage and significant uncertainty for Schoolpop without requiring any objective justification.",
+    "safer_alternative": "If Schoolpop fails to meet the Guaranteed Minimum, AEIS may elect to terminate the Agreement or cure the shortfall by paying an estimated cost for the remaining performance needed to reach the minimum, subject to mutual written agreement."
+  },
+  {
+    "id": "clause_4196",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+    "clause_text": "Milestone Amount Initiation of Phase I * U.S.$10 Million Initiation of Phase IIa** U.S.$10 Million Initiation of Phase IIb** U.S.$5 Million Initiation of Phase III U.S.$25 Million",
+    "risk_level": "medium",
+    "why_risky": "The clause outlines significant upfront financial commitments tied to vague milestone triggers (noted by asterisks), which can lead to disputes if the specific conditions for 'initiation' are not clearly defined, potentially locking in substantial payments before value is proven.",
+    "safer_alternative": "Define 'initiation' with specific, objective criteria such as regulatory filings, clinical trial start dates, or third-party verification to ensure payments are tied to verifiable progress rather than ambiguous internal decisions."
+  },
+  {
+    "id": "clause_4653",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "BERKELEYLIGHTS,INC_06_26_2020-EX-10.12-COLLABORATION AGREEMENT",
+    "clause_text": "If BLI has Substantially Completed at least [***] ([***]) [***] Workflows within the first [***] ([***]) Contract Years, then the Minimum Cumulative Purchase Commitment as of the Contract Year (which may include a portion of a full Contract Year) that is the last Contract Year during the Term pursuant to the terms of this Agreement shall change from $109 million (as currently reflected in Table 7.2.2) to $150 million.",
+    "risk_level": "high",
+    "why_risky": "This clause imposes a massive 37% increase in the minimum purchase commitment (from $109M to $150M) upon the buyer if a specific performance metric is met, which creates a significant financial liability that may be disproportionate to the value of the completed work.",
+    "safer_alternative": "Limit the increase in the Minimum Cumulative Purchase Commitment to a cap that is contractually justified by the specific value of the completed workflows, or require a mutual agreement session to adjust the commitment based on actual performance and market conditions rather than an automatic steep hike."
+  },
+  {
+    "id": "clause_1199",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement",
+    "clause_text": "In the event of THE HENRY FILM AND ENTERTAINMENT CORPORATION, not fulfilling this minimum PERFORMANCE, PACIFICAP ENTERTAINMENT may cancel this Agreement",
+    "risk_level": "medium",
+    "why_risky": "The clause allows for automatic termination based on a single instance of non-compliance without specifying a definition of 'minimum PERFORMANCE' or providing a cure period for correction.",
+    "safer_alternative": "Pacificap Entertainment may terminate this Agreement if the Henry Film and Entertainment Corporation fails to meet the defined minimum performance benchmarks and such failure continues for thirty days after written notice from Pacificap."
+  },
+  {
+    "id": "clause_3522",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+    "clause_text": "Supplier will use commercially reasonable efforts to deliver Product to CUTANEA with minimum expiry dating remaining of [***]% of the approved shelf-life.",
+    "risk_level": "medium",
+    "why_risky": "The standard of 'commercially reasonable efforts' is vague and subjective, making it difficult to enforce a specific minimum expiry date requirement, which could allow the supplier to deliver near-expired goods without breaching the contract.",
+    "safer_alternative": "Supplier shall guarantee delivery of Product with a minimum remaining shelf-life of [specific percentage]% or days, failing which the Buyer may reject the shipment at no cost."
+  },
+  {
+    "id": "clause_0717",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT",
+    "clause_text": "HSNS will pay to E.piphany a minimum sell through revenue commitment of $750,000.00 (\"MINIMUM SELL-THROUGH COMMITMENT\") during the initial three year term of this Agreement on the dates and in the minimum amounts (\"Minimum Quarterly Payments\") as follows.",
+    "risk_level": "high",
+    "why_risky": "This clause imposes a fixed financial liability on HSNS regardless of actual sales performance, creating significant exposure if market conditions or product demand do not meet expectations.",
+    "safer_alternative": "The minimum sell-through commitment should be tied to a performance indicator, such as a percentage of actual revenue or reduced by credits for unsold inventory, to align risk with actual commercial outcomes."
+  },
+  {
+    "id": "clause_4697",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT",
+    "clause_text": "The weight loaded shall not exceed the maximum weight which may lawfully be transported in Carrier's equipment; provided, however, when the weight of a shipment is less than the minimum weight specified for the applicable rate, and the rate provides that in no event will freight charges be based on less than the minimum weight specified, such minimum weight will apply for the purpose of computing freight charges.",
+    "risk_level": "neutral",
+    "why_risky": "The clause is standard legal language that clearly separates safety regulations (maximum weight limits) from billing rules (minimum weight for fee calculation), without imposing unfair obligations.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_3009",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement",
+    "clause_text": "The Distributor's single purchase order amount shall be a minimum of five units.",
+    "risk_level": "medium",
+    "why_risky": "The clause imposes a minimum quantity per order which could prevent the distributor from meeting specific customer needs for smaller batches, potentially forcing excess inventory or lost sales.",
+    "safer_alternative": "The Distributor may place single purchase orders for a minimum of one unit, subject to the agreed wholesale transaction fee or price adjustment for small quantities."
+  },
+  {
+    "id": "clause_5253",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "JOINTCORP_09_19_2014-EX-10.15-FRANCHISE AGREEMENT",
+    "clause_text": "(11) you fail to meet the minimum local advertising expenditures required in Section 11.2, and to provide the required proof of your expenditures;",
+    "risk_level": "low",
+    "why_risky": "This is a standard obligation in commercial agreements, but the risk lies in the potential for strict liability if the proof of expenditure is deemed insufficient or delayed, rather than the obligation itself being harmful.",
+    "safer_alternative": "The clause should specify a reasonable grace period (e.g., 10 business days) to cure any deficiency in proof of expenditure before a material breach is declared, ensuring the proof-of-performance standard is clearly defined."
+  },
+  {
+    "id": "clause_5217",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "ParatekPharmaceuticalsInc_20170505_10-KA_EX-10.29_10323872_EX-10.29_Outsourcing Agreement",
+    "clause_text": "n case of an order volume equal or less than [* * *]: The first [* * *] of each short term rolling forecast shall be binding firm purchase orders by Customer (each a \"Purchase Order\") and the last [* * *] of each short term rolling forecast shall be non-binding, good faith estimates.",
+    "risk_level": "medium",
+    "why_risky": "The specific volumes determining which forecasts become binding versus non-binding are redacted, leaving the supplier exposed to uncertainty about exactly when their production commitments become legally enforceable.",
+    "safer_alternative": "The clause should specify the exact numerical thresholds for order volume that trigger the transition from non-binding estimates to binding firm purchase orders to ensure clarity for both parties."
+  },
+  {
+    "id": "clause_3437",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement",
+    "clause_text": "Notwithstanding anything to the contrary contained herein, the exclusive appointment and license set out in Sections 2(a) and 2(b) shall become non-exclusive if:",
+    "risk_level": "medium",
+    "why_risky": "This clause creates significant uncertainty by triggering the loss of exclusivity based on conditions listed after this text, which may be easily triggered or vaguely defined, thereby undermining the value of the exclusive position.",
+    "safer_alternative": "Stipulate that exclusive rights can only be converted to non-exclusive under specific, objectively measured performance metrics or public insolvency events defined with strict thresholds."
+  },
+  {
+    "id": "clause_4805",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement1",
+    "clause_text": "Licensee fails to reach the Market Penetration Targets Fox shall in its sole discretion have the right to terminate Licensee's exclusivity under this Agreement.",
+    "risk_level": "high",
+    "why_risky": "The clause grants Fox unilateral and subjective authority to revoke exclusivity based on potentially undefined performance metrics, creating significant uncertainty and leverage imbalance for the Licensee.",
+    "safer_alternative": "Replace 'Market Penetration Targets' with objectively verifiable numerical milestones defined in an exhibit, and limit the remedy to a proportional expansion of the territory or a right to cure before termination of exclusivity."
+  },
+  {
+    "id": "clause_1726",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT",
+    "clause_text": "Orders for less than minimum or non-standard lot size quantities of any Product may, at NETGEAR's discretion, be rejected.",
+    "risk_level": "medium",
+    "why_risky": "The clause grants the supplier broad, unchecked discretion to reject orders that fall slightly outside standard quantities, which could disrupt your supply chain or force you to buy more than you need.",
+    "safer_alternative": "Orders for quantities below the minimum lot size should be accepted upon negotiation of a surcharge or premium price, rather than being subject to unilateral rejection."
+  },
+  {
+    "id": "clause_0704",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "ASPIRITYHOLDINGSLLC_05_07_2012-EX-10.6-OUTSOURCING AGREEMENT",
+    "clause_text": "In consideration of the agreement of the Contractor to provide its services as set forth in this Agreement, the Company will pay the Contractor the following amounts: (i) a monthly service fee of $7.50 per note based on the maximum number of notes outstanding during the month, subject to a monthly minimum of $2,500;",
+    "risk_level": "medium",
+    "why_risky": "The requirement to pay based on the 'maximum' number of notes outstanding during the month rather than an average or year-end figure creates a volatile cost structure that can spike unpredictably if note volume fluctuates, and the phrase 'based on the maximum number' is slightly ambiguous regarding how partial months or spikes are calculated.",
+    "safer_alternative": "Replace the 'maximum number' metric with a more stable calculation basis, such as the average daily outstanding balance or the count at the end of the reporting period, to better align costs with actual sustained usage."
+  },
+  {
+    "id": "clause_0432",
+    "project_category": "Commercial Commitments",
+    "cuad_category": "Minimum Commitment",
+    "contract_source": "BNCMORTGAGEINC_05_17_1999-EX-10.4-LICENSING AND WEB SITE HOSTING AGREEMENT",
+    "clause_text": "Client will pay TrueLink's fees for requested Hosting Services and Support Services pursuant to the schedule of charges set forth on Exhibits \"A\" and \"B\" attached hereto, (but not less than $____ per month for the Hosting Services and $____ per month for Support Services).",
+    "risk_level": "medium",
+    "why_risky": "The 'not less than' floor constitutes a guaranteed minimum payment obligation that may persist regardless of actual usage or satisfaction with the services, creating financial exposure if service levels drop or needs decrease.",
+    "safer_alternative": "Remove the minimum monthly fee requirement or condition the minimum on the vendor meeting specific Service Level Agreements (SLAs) and guaranteeing full service availability."
+  },
+  {
+    "id": "clause_4724",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "License Grant",
+    "contract_source": "StampscomInc_20001114_10-Q_EX-10.47_2631630_EX-10.47_Co-Branding Agreement",
+    "clause_text": "Each party hereby grants to the other party a ------------------- [***]* (except as provided in Section 18(b) [Assignment](\"Assignment\")), [***]* (with no --- --- right to sublicense except as set forth below) under all of its Intellectual Property Rights to use, reproduce, modify, and create derivative works of each party's preexisting Intellectual Property Rights solely as is reasonably and actually necessary to complete the development of the Service.",
+    "risk_level": "medium",
+    "why_risky": "The clause contains multiple redacted or undefined terms (indicated by '---' and '[***]') and a vague 'least-restrictive-possible' standard that could be interpreted broadly, creating uncertainty about the scope of the license and potential rights erosion.",
+    "safer_alternative": "Replace the redacted placeholders with explicit definitions and narrow the scope to 'solely as necessary' for a specific, defined purpose with clear time limits and output ownership boundaries."
+  },
+  {
+    "id": "clause_1823",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "License Grant",
+    "contract_source": "MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT",
+    "clause_text": "Franchisee agrees and grants to Pretzel Time and its Affiliates a perpetual and worldwide right to use and authorize other Pretzel Time Units or other food service businesses operated by Pretzel Time or its Affiliates, franchisees and designees to use such ideas, recipes, formulas, concepts, methods, and techniques relating to the development and/or operation of a dessert or snack food business.",
+    "risk_level": "high",
+    "why_risky": "The clause demands a perpetual, unrestricted license to any ideas or innovations the franchisee develops, which could effectively allow the franchisor to take ownership of the franchisee's independent intellectual property without compensation.",
+    "safer_alternative": "Limit the license to specific, pre-existing materials or concepts identified in the exhibit, and clarify that any new intellectual property developed independently by the franchisee outside the scope of the franchise remains the franchisee's exclusive property."
+  },
+  {
+    "id": "clause_5508",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "License Grant",
+    "contract_source": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+    "clause_text": "Depomed hereby grants to King a non-assignable, non- sublicensable, non-exclusive, royalty-free right and license to use the Depomed Trademarks in the Territory solely in connection with King's Promotion of the Product in accordance with this Agreement; provided King may assign and sublicense such right and license in accordance with Section 2.2.",
+    "risk_level": "medium",
+    "why_risky": "The clause contains an internal contradiction by labeling the license as 'non-assignable' and 'non-sublicensable' while simultaneously explicitly permitting assignment and sublicensing, which creates legal ambiguity regarding the true scope of the rights granted.",
+    "safer_alternative": "Depomed hereby grants to King a non-exclusive, royalty-free right and license to use the Depomed Trademarks in the Territory solely for Promoting the Product, with the explicit right to assign and sublicense such license in accordance with Section 2.2."
+  },
+  {
+    "id": "clause_2206",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "Ip Ownership Assignment",
+    "contract_source": "Sonos, Inc. - Manufacturing Agreement ",
+    "clause_text": "IAC shall cooperate fully with Sonos and execute such further instruments, documents and agreements and give such further written assurances, as may be reasonably requested by Sonos, at Sonos' expense, to perfect the foregoing assignment and obtain and enforce assigned Intellectual Property Rights.",
+    "risk_level": "high",
+    "why_risky": "The clause imposes an unconditional, open-ended obligation to execute further documents upon 'reasonable' request, lacking a defined scope, deadline, or standard for reasonableness, which could burden the contract party with indefinite legal costs and efforts to perfect IP rights.",
+    "safer_alternative": "Limit the cooperation obligation to specific types of documents required for registration or enforcement, set a reasonable time limit for response, and clarify that 'reasonably requested' means necessary to protect the assigned IP and proportional to the value of such IP."
+  },
+  {
+    "id": "clause_0537",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "License Grant",
+    "contract_source": "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement",
+    "clause_text": "Notwithstanding any termination of this Agreement, any Approved Content that includes Zynga's Licensed Property may remain in perpetuity in any media in which such Licensed Property was integrated into during the Term (e.g., televised WPT Tournaments or WPT Invitational Tournaments, social media posts, repurposed integrations for \"best of\" television programs) or for historical purposes (e.g., reference on WPT's website that Zynga-sponsored tour events took place as part of the tour).",
+    "risk_level": "high",
+    "why_risky": "The clause grants the licensee an indefinite, perpetual right to use your creative content in existing media even after the contract ends, which can prevent you from repurposing, licensing, or monetizing your own work in the future.",
+    "safer_alternative": "Limit the survival of content usage rights to a specific, reasonable period (e.g., 1\u20132 years) post-termination, or restrict perpetual rights to specific archival materials only, ensuring no new distributions or commercial exploitations occur after the agreement ends."
+  },
+  {
+    "id": "clause_1880",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "License Grant",
+    "contract_source": "ENTERTAINMENTGAMINGASIAINC_02_15_2005-EX-10.5-DISTRIBUTOR AGREEMENT",
+    "clause_text": "In the event of the termination of this Agreement for any reason whatsoever, the exclusive distribution right and license granted to Distributor pursuant to this Agreement shall automatically revert to Vendor as Vendor's sole property.",
+    "risk_level": "low",
+    "why_risky": "This is a standard and legally sound provision for an exclusive distribution agreement, ensuring the vendor retains IP and distribution rights upon termination, which does not pose significant risk to the distributor's core IP.",
+    "safer_alternative": "The clause is already neutral and fair; however, parties may optionally add that the distributor can continue to sell existing inventory for a short transitional period after termination if desired."
+  },
+  {
+    "id": "clause_0768",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "Ip Ownership Assignment",
+    "contract_source": "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement",
+    "clause_text": "Manufacturer acknowledges and agrees that, as between the Parties, any Improvements or Developments that are specific to and otherwise solely relate to, the manufacturing, processing or packaging of Products (such Improvements and Developments, collectively, \"Customer-Owned Improvements and Developments\") shall be the exclusive property of Customer, and Customer shall own all rights, title and interest in and to such Customer-Owned Improvements and Developments.",
+    "risk_level": "high",
+    "why_risky": "This clause assigns ownership of all manufacturing-related improvements to the Customer, effectively stripping the Manufacturer of the right to use or monetize their own process innovations for other clients or products.",
+    "safer_alternative": "Limit the assignment of IP to only those Improvements that are directly attributable to specific data or inputs provided by the Customer, or grant the manufacturer a non-exclusive license to use such process improvements for general manufacturing purposes."
+  },
+  {
+    "id": "clause_2806",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "License Grant",
+    "contract_source": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+    "clause_text": "IBM grants Customer an irrevocable, nonexclusive, worldwide, paid-up license to use, execute, reproduce, display, and perform copies of such Materials and distribute within Customer's Affiliates only.",
+    "risk_level": "low",
+    "why_risky": "The clause restricts the license to distribution within Customer's Affiliates only, which may limit the Customer's ability to leverage the materials with third parties or partners, although the other terms (irrevocable, worldwide, paid-up) are favorable.",
+    "safer_alternative": "IBM grants Customer an irrevocable, nonexclusive, worldwide, paid-up license to use, execute, reproduce, display, perform, and distribute copies of such Materials for any business purpose, including distribution to third parties."
+  },
+  {
+    "id": "clause_2148",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "License Grant",
+    "contract_source": "CERES,INC_01_25_2012-EX-10.20-Collaboration Agreement",
+    "clause_text": "If CERES informs IGER in writing that CERES is planning to commercialize the LICENSED VARIETY in all or part of the COUNTRY, directly or indirectly (whether or not through the third party identified by IGER), and CERES has not taken reasonable steps towards the implementation of such commercialization within two (2) years after so informing IGER, unless CERES informs IGER of REASONABLE GROUNDS for its failure or delay",
+    "risk_level": "medium",
+    "why_risky": "The definition of 'REASONABLE GROUNDS' for delay is not specified, creating ambiguity that could allow the licensor to indefinitely extend the timeline or provide subjective justifications for inaction.",
+    "safer_alternative": "Define specific acceptable reasons for delay (e.g., regulatory approval, force majeure) and set a maximum extension period of one year, failing which the licensee may assume the variety has not been commercialized in that territory."
+  },
+  {
+    "id": "clause_3199",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "Ip Ownership Assignment",
+    "contract_source": "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement",
+    "clause_text": "of rights may occur after such [***] ([***]) day period without being deemed a breach of this Section 15.3.2 by Licensee), [***].",
+    "risk_level": "high",
+    "why_risky": "The clause contains critical redactions ([***]) that hide the specific rights, time limits, and consequences involved, making it impossible to determine the scope of potential breach or liability.",
+    "safer_alternative": "Restore all redacted text to clearly define which operational rights can be modified, the specific grace period allowed, and the precise non-derogation language that applies to the license agreement."
+  },
+  {
+    "id": "clause_4495",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "License Grant",
+    "contract_source": "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement",
+    "clause_text": "Boxlot hereby grants to theglobe a non-exclusive, worldwide license to use, reproduce, create derivative works of (only as necessary to build pages in a manner consistent with this Agreement), publicly display, publicly perform and digitally perform Boxlot Banners, and those elements of the Boxlot Content served from theglobe's servers (as denoted in Exhibit A), on theglobe Site or otherwise as reasonably appropriate to advertise and promote the Service and the Co-Branded Pages.",
+    "risk_level": "medium",
+    "why_risky": "The clause grants broad rights including the creation of derivative works and the ambiguous phrase 'otherwise as reasonably appropriate,' which could allow the licensee to use the IP in unexpected ways without explicit prior approval.",
+    "safer_alternative": "Limit the license to displaying Banners solely for the purpose of promoting the Service within the Site, and remove or strictly define the right to create derivative works to prevent unauthorized modifications."
+  },
+  {
+    "id": "clause_2671",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "License Grant",
+    "contract_source": "FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement",
+    "clause_text": "More particularly, said right and license to practice FCE Background Information and FCE Background Patents for Generation 2 Technology in any application outside of Carbon Capture Applications and Hydrogen Applications will include the right to use, reproduce, and create derivative works of FCE Background Information under applicable copyrights and the right to make, use, import, and sell or offer to sell under the claims of FCE Background Patents.",
+    "risk_level": "medium",
+    "why_risky": "The clause explicitly grants broad rights to use, reproduce, and create derivative works of background IP outside the original scope, which may result in the unintended transfer of ownership or excessive licensing rights to the counterparty.",
+    "safer_alternative": "Limit the license to a non-exclusive, non-sublicensable right to use the FCE Background Patents solely for the specific purpose of Generation 2 Technology, expressly excluding the right to create derivatives or modify the underlying code/processes."
+  },
+  {
+    "id": "clause_1203",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "License Grant",
+    "contract_source": "PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement",
+    "clause_text": "PACIFICAP ENTERTAINMENT agrees to also allow THE HENRY FILM AND ENTERTAINMENT CORPORATION the right to redistribute, reproduce, retransmit, disseminate, sell, publish, broadcast or circulate the information contained in such PACIFICAP ENTERTAINMENT Content.",
+    "risk_level": "high",
+    "why_risky": "This clause grants an unlimited, potentially perpetual, and all-encompassing license to use, sell, and broadcast content without specifying term limits, territories, or compensation, which severely compromises the IP holder's control and revenue potential.",
+    "safer_alternative": "The Henry Film and Entertainment Corporation is granted a limited, revocable license for a specified term and territory to reproduce and distribute Pacificap Entertainment Content solely for [specific purpose], with all other rights reserved and compensation outlined in Section [X]."
+  },
+  {
+    "id": "clause_2705",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "License Grant",
+    "contract_source": "VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT",
+    "clause_text": "Improvements for all other batteries may be licensed to the Joint Venture Company on terms to be agreed by the Party B and the Joint Venture Company.",
+    "risk_level": "medium",
+    "why_risky": "The phrase 'terms to be agreed' creates significant ambiguity and risk of negotiation impasse, as both parties could hold out for better terms without any obligation to settle.",
+    "safer_alternative": "Improvements for all other batteries may be licensed to the Joint Venture Company on the terms set forth in Schedule X, or if not specified, on fair and reasonable market rates."
+  },
+  {
+    "id": "clause_2631",
+    "project_category": "IP Ownership & Licensing",
+    "cuad_category": "License Grant",
+    "contract_source": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement",
+    "clause_text": "Producer further grants to ConvergTV the right and license to create (re-edit), at its sole cost and expense, new and different versions of the Program, create foreign language, subtitled or translated versions of the Program as well as to create closed captioned versions of the Program, including NTCS, PAL, SEACAM standards, or other standards, including those yet to be developed.",
+    "risk_level": "low",
+    "why_risky": "The clause grants standard necessary licenses for international distribution and technical adaptation, which is common in media contracts, though the open-ended inclusion of 'standards yet to be developed' adds a minor element of uncertainty.",
+    "safer_alternative": "Limit the license to create new versions to specific, pre-agreed distribution regions or formats, and require written approval or revenue-sharing terms for any material re-edits or derivative works beyond simple technical translation or subtitling."
+  },
+  {
+    "id": "clause_1708",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Insurance",
+    "contract_source": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement1",
+    "clause_text": "Supplier shall be responsible for loss to bank property and customer property, directly or indirectly, and shall maintain Fidelity Bond or Crime coverage for the dishonest acts of its employees in a minimum amount of $5,000,000.",
+    "risk_level": "high",
+    "why_risky": "The clause imposes unlimited liability for 'indirect' losses on the Supplier and mandates a specific, high-value insurance policy without allowing for mutual negotiation of caps or sub-limits.",
+    "safer_alternative": "Supplier shall be liable for direct losses to bank property and shall maintain fidelity coverage of $5,000,000, provided that its total aggregate liability under this contract does not exceed the amount of such insurance or a mutually agreed cap."
+  },
+  {
+    "id": "clause_2234",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Insurance",
+    "contract_source": "Sonos, Inc. - Manufacturing Agreement ",
+    "clause_text": "After this Agreement expires or terminates, [*] will either have an active policy or purchase an extended reporting period that has coverage for claims first made and reported to the insurer within 2 years after this Agreement expires or terminates",
+    "risk_level": "medium",
+    "why_risky": "The clause uses placeholder text (\"[*]\") which creates ambiguity about who bears the cost and obligation, and the strict requirement to maintain coverage for exactly two years without specifying the policy type or proof method could lead to disputes if the obligated party misinterprets the scope.",
+    "safer_alternative": "Clearly identify the obligated party by name and specify that they must provide written proof of an active liability policy or evidence of a purchased extended reporting period covering claims first made and reported within two years post-termination."
+  },
+  {
+    "id": "clause_0698",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Insurance",
+    "contract_source": "FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement",
+    "clause_text": "During the Term, the Supplier shall maintain product liability insurance with a reputable insurer of no less than AU$10 million for any one occurrence for any and all liability (however arising) for a claim that the Products are faulty or defective.",
+    "risk_level": "low",
+    "why_risky": "The insurance requirement is standard for product liability, but the lack of a cap on aggregate liability or clarification on sub-limits leaves minor room for dispute over coverage scope.",
+    "safer_alternative": "The Supplier shall maintain product liability insurance with a reputable insurer of no less than AU$10 million per occurrence and AU$20 million in the aggregate per year, including secondary liability, for any claim that the Products are faulty or defective."
+  },
+  {
+    "id": "clause_1487",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Insurance",
+    "contract_source": "AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement",
+    "clause_text": "Professional Liability (Errors & Omissions) insurance with limits of at least $5,000,000 each claim or wrongful act.",
+    "risk_level": "low",
+    "why_risky": "The requirement for $5 million in E&O insurance is on the higher end of standard practice and may impose significant premium costs, depending on the scope and value of the contract.",
+    "safer_alternative": "Professional Liability insurance with limits appropriate to the contract value, such as $1,000,000 to $2,000,000 per claim, unless the project scope specifically justifies higher coverage."
+  },
+  {
+    "id": "clause_5151",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Audit Rights",
+    "contract_source": "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",
+    "clause_text": "We have the right at all reasonable times to examine, copy, and/or personally review or audit (at our expense) all of your sales receipts, books, records, and sales and income tax returns in person or through electronic access (at our option). We will also have the right, at any time, to have an independent audit made of your books and records.",
+    "risk_level": "medium",
+    "why_risky": "The clause grants the reviewing party broad, unrestricted access to sensitive financial records including the right to commission independent audits 'at any time' without specifying notice periods, frequency limits, or restrictions on the use of obtained information.",
+    "safer_alternative": "The reviewing party may audit records no more than once per calendar year, upon 30 days' prior written notice, during normal business hours, and must keep all obtained information strictly confidential."
+  },
+  {
+    "id": "clause_2031",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Insurance",
+    "contract_source": "PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement",
+    "clause_text": "Any subcontractor, including any Permitted Third Party, who provides professional services to such Party for the Clinical Trials, will obtain Professional Liability Insurance in lieu of Clinical Trial Insurance, with a minimum limit of [***] dollars ($[***]) per occurrence.",
+    "risk_level": "medium",
+    "why_risky": "The clause substitutes a specific type of insurance (Professional Liability) for the potentially required broader Clinical Trial Insurance, which may leave the client underinsured if the liability scope does not adequately cover all clinical trial risks.",
+    "safer_alternative": "Require subcontractors to maintain both Professional Liability Insurance and Clinical Trial Insurance (or a combined policy that explicitly covers all risks arising from the Clinical Trials) with limits appropriate to the scope of work."
+  },
+  {
+    "id": "clause_1443",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Audit Rights",
+    "contract_source": "AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement",
+    "clause_text": "For at least two (2) years after termination of this Agreement, Distributor will maintain its records, contracts, and accounts relating to distribution of Airspan Products, and will permit examination thereof by authorized representatives of Airspan at all reasonable times.",
+    "risk_level": "low",
+    "why_risky": "The two-year retention period and right to audit are standard for distribution agreements, but the broad scope of 'accounts' and lack of specific notification requirements could still create minor administrative burdens or privacy concerns.",
+    "safer_alternative": "Distributor will maintain records of sales and commissions for two years after termination and will permit reasonable audits by Airspan with at least thirty days' prior written notice, limited to during business hours and without disrupting Distributor's normal operations."
+  },
+  {
+    "id": "clause_4402",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Audit Rights",
+    "contract_source": "SimplicityEsportsGamingCompany_20181130_8-K_EX-10.1_11444071_EX-10.1_Franchise Agreement",
+    "clause_text": "During the Term, Franchisor shall have the right to conduct audits of Franchisee with respect to the Smaaash Centres, and inspect the Smaaash Centres, after providing a written notice of 5 (five) days.",
+    "risk_level": "medium",
+    "why_risky": "The clause allows inspections and audits upon just five days' written notice, which may be inconvenient for business operations and does not specify reasonable times, such as during normal business hours.",
+    "safer_alternative": "Franchisor may conduct audits and inspect the Smaaish Centres during normal business hours upon seven days' written notice, provided that such activities do not unreasonably interfere with Franchisee\u2019s business operations."
+  },
+  {
+    "id": "clause_3523",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Audit Rights",
+    "contract_source": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+    "clause_text": "Both parties must also (1) make and keep books, records and accounts, which, in reasonable detail, accurately and fairly reflect the transactions and dispositions of assets of the company, (2) devise and maintain a system of internal accounting controls, and (3) at any time a party so requests in writing, but no more than once a year, grant to the other party commercially reasonable access to said books, records, systems and accounts to verify compliance.",
+    "risk_level": "low",
+    "why_risky": "The requirement to maintain detailed internal accounting controls and grant access, even with reasonable limits, creates an ongoing administrative and operational burden that exceeds the bare minimum for most standard commercial agreements.",
+    "safer_alternative": "Limit the obligation to providing only those specific financial statements or records directly relevant to payment or performance disputes, rather than requiring continuous maintenance of detailed internal control systems."
+  },
+  {
+    "id": "clause_2254",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Insurance",
+    "contract_source": "VAPOTHERM, INC. - Manufacturing and Supply Agreement",
+    "clause_text": "At the request of Medica from time to time, Vapotherm shall famish Medica with certification of insurance evidencing that insurance and shall endeavour to provide at least [* * *] Business Days prior written notice to Medica of any cancellation of or decrease in the amount of coverage provided by any such policy.",
+    "risk_level": "medium",
+    "why_risky": "The use of 'endeavour' instead of a mandatory obligation to provide notice, combined with a placeholder value for the notice period, creates ambiguity and potential non-compliance risks.",
+    "safer_alternative": "Replace 'endeavour' with 'shall' to create a binding obligation and replace '[* * *]' with a specific, reasonable number of business days (e.g., 10 or 30) to provide adequate time for review."
+  },
+  {
+    "id": "clause_5320",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Warranty Duration",
+    "contract_source": "PhotronicsInc_20171219_10-QA_EX-10.28_10982650_EX-10.28_Outsourcing Agreement",
+    "clause_text": "Each of the Suppliers warrants that the Products shall comply with the specifications and documentation agreed by the relevant Supplier and the Company in writing that is applicable to such Products for the Warranty Period.",
+    "risk_level": "medium",
+    "why_risky": "The vague reference to 'specifications and documentation agreed... in writing' lacks specificity, creating a risk that the parties fail to define the exact standard, leading to disputes over whether the product actually complies.",
+    "safer_alternative": "Each Supplier warrants that the Products shall strictly comply with the specifications explicitly listed in Attachment A and all applicable laws, which shall remain the sole benchmark for compliance throughout the Warranty Period."
+  },
+  {
+    "id": "clause_1749",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Insurance",
+    "contract_source": "NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT",
+    "clause_text": "Upon Distributor's written request, NETGEAR will furnish the applicable certificate of insurance.",
+    "risk_level": "low",
+    "why_risky": "The clause is standard and imposes a minor administrative obligation on Netgear, but it lacks a specific turnaround time frame, which could potentially cause delays in verification for the Distributor.",
+    "safer_alternative": "Upon Distributor's written request, NETGEAR will furnish the applicable certificate of insurance within five (5) business days."
+  },
+  {
+    "id": "clause_2933",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Audit Rights",
+    "contract_source": "FOUNDATIONMEDICINE,INC_02_02_2015-EX-10.2-Collaboration Agreement",
+    "clause_text": "Such audits may be conducted up to [\u2026***\u2026] and Roche shall use reasonable effort not to disrupt ongoing operations during such audits.",
+    "risk_level": "medium",
+    "why_risky": "The clause allows audits up to an unspecified frequency or duration (masked in the text), creating ambiguity that could be exploited to impose excessive costs and operational burdens on the audited party, despite the mitigation of 'reasonable effort'.",
+    "safer_alternative": "Limit the audit scope to a specific number of times per year (e.g., once annually) with reasonable prior notice, and specify that all audit costs shall be borne by the auditing party unless a material breach is discovered."
+  },
+  {
+    "id": "clause_0514",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Warranty Duration",
+    "contract_source": "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT",
+    "clause_text": "Contractor warrants to NICE that each of the Products manufactured, configured or tested by Contractor will have been manufactured, configured and tested in conformance with the Specifications therefor as provided by NICE and be free from defects in workmanship or material for the Warranty Period.",
+    "risk_level": "medium",
+    "why_risky": "The clause imposes an absolute warranty against defects without excluding latent defects or specifying a process for NICE to inspect or reject the work, which could lead to disputes over subjective quality standards or hidden flaws discovered later.",
+    "safer_alternative": "Contractor warrants that the Products will conform to the Specifications and be free from defects in workmanship and material, provided that NICE has the right to inspect and reject any non-conforming items within a defined inspection period, and such warranty shall not cover defects arising from NICE's misuse or modification of the Products."
+  },
+  {
+    "id": "clause_1863",
+    "project_category": "Risk & Compliance Obligations",
+    "cuad_category": "Audit Rights",
+    "contract_source": "UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2",
+    "clause_text": "Network 1 shall have the right to inspect the Local Offices during normal business hours to insure compliance by Affiliate with is obligations pursuant to Section 1.02 [LOCAL OFFICE (AFFILIATE OFFICE)].",
+    "risk_level": "medium",
+    "why_risky": "The clause grants inspection rights during all normal business hours without restricting the frequency, notice period, or specific scope of the inspection, which could be exploited to disrupt operations or intrude on confidential information.",
+    "safer_alternative": "Network 1 may inspect the Local Offices during normal business hours with at least 48 hours' prior written notice, limited to no more than once per quarter, and solely to verify compliance with Section 1.02."
+  },
+  {
+    "id": "clause_0372",
+    "project_category": "Liability",
+    "cuad_category": "Cap On Liability",
+    "contract_source": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+    "clause_text": "The foregoing are Corio's sole and exclusive remedies for breach of product warranty.",
+    "risk_level": "high",
+    "why_risky": "This clause completely excludes recovery of consequential damages, lost profits, or other losses, potentially forcing you to pay for the same product twice without compensation for the actual harm caused by the defect.",
+    "safer_alternative": "The remedies available to Corio for breach of product warranty shall be limited to repair or replacement of the non-conforming goods, subject to the statutory damages prescribed by applicable law."
+  },
+  {
+    "id": "clause_3004",
+    "project_category": "Liability",
+    "cuad_category": "Cap On Liability",
+    "contract_source": "DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement",
+    "clause_text": "IN NO EVENT SHALL PRIMECALL BE LIABLE TO DELTATHREE FOR ANY SPECIAL, INCIDENTIAL OR CONSEQUENTIAL DAMAGES, INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, REVENUES OR DATA WHETHER BASED ON BREACH OF CONTRACT, TORT OR OTHERWISE, WHETHER OR NOT DELTATHREE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+    "risk_level": "high",
+    "why_risky": "This clause completely absolves Primecall of liability for the most significant types of business harm (such as lost profits and data loss), leaving DeltaThree without any recourse if a service failure causes major financial or operational damage.",
+    "safer_alternative": "Limit the exclusion of consequential damages to a specific monetary cap or ensure that direct damages are still recoverable up to a reasonable amount tied to the fees paid."
+  },
+  {
+    "id": "clause_3861",
+    "project_category": "Liability",
+    "cuad_category": "Cap On Liability",
+    "contract_source": "TELKOMSALTD_01_30_2003-EX-10-LICENCE AND MAINTENANCE AGREEMENT",
+    "clause_text": "defaulting party or any person or entity in respect of whom the defaulting party may be vicariously liable.",
+    "risk_level": "high",
+    "why_risky": "This clause expands liability significantly by including entities for which the defaulting party is vicariously liable, which can include employees, agents, or affiliates, potentially making a parent company or unrelated entity financially responsible for minor defaults.",
+    "safer_alternative": "Limit the scope of liability to the defaulting party itself and explicitly exclude vicarious liability for actions of third parties where such responsibility is not directly contractually assumed."
+  },
+  {
+    "id": "clause_2559",
+    "project_category": "Liability",
+    "cuad_category": "Cap On Liability",
+    "contract_source": "CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT",
+    "clause_text": "IN NO EVENT WILL CHANGEPOINT BE LIABLE UNDER SUCH AGREEMENT FOR ANY LOSS OF PROFITS, LOSS OF USE, BUSINESS INTERRUPTION, LOSS OF DATA, COST OF COVER OR INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND IN CONNECTION WITH OR ARISING OUT OF THE FURNISHING, PERFORMANCE OR USE OF THE SOFTWARE OR SERVICES PERFORMED HEREUNDER, WHETHER ALLEGED AS A BREACH OF CONTRACT OR TORTIOUS CONDUCT, INCLUDING NEGLIGENCE, EVEN IF CHANGEPOINT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+    "risk_level": "high",
+    "why_risky": "This clause completely absolves the service provider from any liability for indirect damages, including data loss and business interruption, regardless of negligence, which leaves the client unprotected for significant financial harms that may result from the provider's actions or failures.",
+    "safer_alternative": "Limit the exclusion of indirect damages to a reasonable monetary cap or carve out specific direct losses like data restoration costs to ensure the client is not left wholly uninsured for foreseeable losses caused by the provider."
+  },
+  {
+    "id": "clause_0660",
+    "project_category": "Liability",
+    "cuad_category": "Cap On Liability",
+    "contract_source": "WORLDWIDESTRATEGIESINC_11_02_2005-EX-10-RESELLER AGREEMENT",
+    "clause_text": "THE SOLE OBLIGATION OF TOUCHSTAR, AND THE SOLE REMEDY OF RESELLER OR ANY OTHER RESELLER, UNDER THIS AGREEMENT SHALL BE (A) WITH REGARD TO THE TOUCHSTAR SOFTWARE OR ANY CALL CENTER SYSTEM, THE REPLACEMENT OR REPAIR OF THE TOUCHSTAR SOFTWARE OR THE CALL CENTER SYSTEM OR, AT THE OPTION OF TOUCHSTAR, THE RETURN OF THE PURCHASE PRICE PAID BY RESELLER",
+    "risk_level": "high",
+    "why_risky": "This clause severely limits the Reseller's ability to recover damages for business losses, data corruption, or downtime, restricting their only option to a product replacement or a full refund, regardless of how severe the impact of the failure is.",
+    "safer_alternative": "Limit liability to direct damages only, but exclude the 'sole remedy' restriction to allow for consequential damages (such as lost profits) if the software failure results in significant business interruption or data loss."
+  },
+  {
+    "id": "clause_2121",
+    "project_category": "Liability",
+    "cuad_category": "Uncapped Liability",
+    "contract_source": "TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement",
+    "clause_text": "THE PARTIES ACKNOWLEDGE AND AGREE THAT NOTHING IN THIS SECTION 12.2 SHALL LIMIT A PARTY'S OBLIGATION TO PAY ANY AMOUNTS DUE AND OWING TO THE OTHER PARTY UNDER SECTION 5 ON OR BEFORE ANY DATE OF EXPIRATION OR TERMINATION HEREOF.",
+    "risk_level": "low",
+    "why_risky": "This clause is a standard 'survival' provision that prevents termination from wiping out pre-existing financial obligations, meaning the risk only exists if there are genuine disputes over whether specific costs became due before the end date.",
+    "safer_alternative": "The parties agree that obligations under Section 5 accrued on or before the date of termination shall survive and remain payable, provided that no new obligations shall be incurred under this section after the effective date of termination."
+  },
+  {
+    "id": "clause_5155",
+    "project_category": "Liability",
+    "cuad_category": "Cap On Liability",
+    "contract_source": "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement",
+    "clause_text": "Any claims arising under the Maryland Franchise Registration and Disclosure Law must be brought within three (3) years after the grant of the franchise.",
+    "risk_level": "low",
+    "why_risky": "This clause imposes a three-year statute of limitations for specific Maryland franchise claims, which is slightly shorter than the general four-year period typically applicable to written contracts, thereby shortening the franchisor's exposure window compared to standard civil litigation timelines.",
+    "safer_alternative": "Claims arising under the Maryland Franchise Registration and Disclosure Law shall be subject to the statute of limitations generally applicable to written contracts in the jurisdiction where the franchise agreement is governed."
+  },
+  {
+    "id": "clause_3003",
+    "project_category": "Liability",
+    "cuad_category": "Cap On Liability",
+    "contract_source": "DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement",
+    "clause_text": "THE LIABILITY OF DELTATHREE FOR DAMAGES OR ALLEGED DAMAGES HEREUNDER, WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, IS LIMITED TO, AND WILL NOT EXCEED, PRIMECALL'S DIRECT DAMAGES.",
+    "risk_level": "high",
+    "why_risky": "The clause strictly limits liability to 'direct damages,' which excludes consequential, indirect, or lost profits, significantly reducing the compensation available to Primecall if DeltaThree breaches the contract.",
+    "safer_alternative": "Limit liability to direct damages, but explicitly exclude exclusions for indemnification obligations, confidentiality breaches, or intentional misconduct and gross negligence."
+  },
+  {
+    "id": "clause_2123",
+    "project_category": "Liability",
+    "cuad_category": "Cap On Liability",
+    "contract_source": "TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement",
+    "clause_text": "THE FOREGOING PROVISIONS OF THIS SECTION 13.5 STATE THE ENTIRE LIABILITY AND THE EXCLUSIVE REMEDY OF THE PARTIES TO THIS AGREEMENT WITH RESPECT TO INFRINGEMENT OR ALLEGED INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS.",
+    "risk_level": "medium",
+    "why_risky": "This clause caps intellectual property liability and excludes all other remedies (such as injunctions or damages beyond the specified amount), which may leave the recipient unprotected against significant IP infringement claims.",
+    "safer_alternative": "Carve out willful or reckless IP infringement from the exclusive remedy limitation, or allow for injunctive relief in addition to the monetary cap to ensure adequate protection against misuse of IP rights."
+  },
+  {
+    "id": "clause_4543",
+    "project_category": "Liability",
+    "cuad_category": "Cap On Liability",
+    "contract_source": "Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ",
+    "clause_text": "In the case of termination by Monsanto upon any of the Events of Default specified in Sections 10.4(b) (6), (7) and (9), the remedies of Monsanto shall be limited to (i) termination of this Agreement and (ii) the recovery of reasonable and customary out-of-pocket expenses incurred by Monsanto in transferring the Agent's duties hereunder to a new agent; provided that in no case shall the amount of expenses recoverable under this provision exceed $20MM.",
+    "risk_level": "low",
+    "why_risky": "The clause limits the receiving party's liability to a fixed, capped amount for out-of-pocket expense replacement, which is a standard and fair limitation of liability for breach-of-default terminations.",
+    "safer_alternative": null
+  },
+  {
+    "id": "clause_3823",
+    "project_category": "Liability",
+    "cuad_category": "Uncapped Liability",
+    "contract_source": "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT",
+    "clause_text": "Accordingly, LBIO shall have available, in addition to any other right or remedy available to it, the right to seek an injunction from a court of competent jurisdiction restraining such a breach (or threatened breach) and to specific performance of any such Section.",
+    "risk_level": "medium",
+    "why_risky": "Seeking an injunction for a 'threatened breach' is an aggressive legal remedy that can be costly and disruptive, creating uncertainty and potential leverage imbalance even if no actual harm has occurred.",
+    "safer_alternative": "Limit the right to seek injunctive relief to cases where a material breach has already occurred or where monetary damages are clearly inadequate to compensate for the harm."
+  },
+  {
+    "id": "clause_4244",
+    "project_category": "Liability",
+    "cuad_category": "Cap On Liability",
+    "contract_source": "WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement",
+    "clause_text": "Any cause of action that Buyer may have against Seller and which may arise in connection with the transaction(s) specified herein must be commenced within two (2) years after the cause of action has accrued.",
+    "risk_level": "medium",
+    "why_risky": "A two-year statute of limitations for product liability or defect claims can be significantly shorter than the period allowed by statute in many jurisdictions, potentially cutting off Buyer's right to sue for defects that manifest after that time.",
+    "safer_alternative": "Delete the shortened limitations period or extend it to match the statutory period applicable to the underlying type of claim in the governing jurisdiction."
+  },
+  {
+    "id": "clause_1420",
+    "project_category": "Liability",
+    "cuad_category": "Cap On Liability",
+    "contract_source": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+    "clause_text": "WITHOUT AFFECTING STRICT PRODUCT LIABILITY UNDER MANDATORY APPLICABLE LAW, THE FOREGOING PROVISIONS OF THIS SECTION SET FORTH ACCURAY'S SOLE AND EXCLUSIVE LIABILITY AND DISTRIBUTOR'S SOLE AND EXCLUSIVE REMEDY FOR ANY CLAIMS OF INFRINGEMENT OR MISAPPROPRIATION OF INTELLECTUAL PROPERTY RIGHTS OR PROPRIETARY RIGHTS OF ANY KIND.",
+    "risk_level": "high",
+    "why_risky": "The clause restricts the Distributor's legal options to a single remedy for IP infringement, potentially preventing them from seeking injunctions or other necessary protections unless explicitly included in that 'sole remedy'.",
+    "safer_alternative": "The clause should specify that the exclusive remedy includes the right to seek equitable relief, such as injunctive relief, in addition to monetary damages, or allow for multiple remedies in cases of IP infringement."
+  },
+  {
+    "id": "clause_2556",
+    "project_category": "Liability",
+    "cuad_category": "Cap On Liability",
+    "contract_source": "CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT",
+    "clause_text": "EXCEPT FOR LIABILITY ARISING UNDER SECTIONS 2.7, 8, 10 AND 12.3 OF THIS AGREEMENT, IN NO EVENT SHALL EITHER PARTY'S LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE USE OR PERFORMANCE OF THE SOFTWARE EXCEED THE TOTAL AMOUNT ACTUALLY PAID BY CORIO HEREUNDER FOR THE TRANSACTION WHICH THE LIABILITY RELATES TO DURING THE TWELVE (12) MONTHS IMMEDIATELY PRIOR TO THE CAUSE OF",
+    "risk_level": "medium",
+    "why_risky": "The liability cap is limited to the last 12 months of fees, which may be insufficient to cover significant indirect damages, though the inclusion of specific carve-outs for major liabilities mitigates the risk to some extent.",
+    "safer_alternative": "Cap total liability at two to three times the annual fees paid or the total value of the contract, rather than a rolling 12-month window."
+  },
+  {
+    "id": "clause_1409",
+    "project_category": "Liability",
+    "cuad_category": "Cap On Liability",
+    "contract_source": "HUBEIMINKANGPHARMACEUTICALLTD_09_19_2006-EX-10.1-OUTSOURCING AGREEMENT",
+    "clause_text": "In no event shall DGT be liable for consequential or incidental damages arising from any breach or breaches of this Agreement.",
+    "risk_level": "high",
+    "why_risky": "It completely excludes any liability for consequential or incidental damages, which often represent the primary financial impact of a breach for the other party, leaving them without recourse for significant losses.",
+    "safer_alternative": "Limit liability for consequential damages to a specific cap amount tied to the total fees paid under the agreement during the preceding twelve months, rather than excluding them entirely."
+  }
+]
