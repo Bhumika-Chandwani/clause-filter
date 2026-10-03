@@ -2,6 +2,7 @@ import os
 os.environ["HF_HOME"] = os.path.join(os.path.dirname(__file__), "hf_cache")
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
+
 import json
 import hashlib
 import chromadb
@@ -10,10 +11,13 @@ from groq import Groq
 from dotenv import load_dotenv
 import streamlit as st
 
+
+CHROMA_PATH = os.path.join(os.path.dirname(__file__), "..", "knowledge_base", "chroma_store")
+
 load_dotenv()
 
 embed_model = SentenceTransformer("all-MiniLM-L6-v2")
-chroma_client = chromadb.PersistentClient(path="../knowledge_base/chroma_store")
+chroma_client = chromadb.PersistentClient(path=CHROMA_PATH)
 collection = chroma_client.get_collection("clause_patterns")
 
 
